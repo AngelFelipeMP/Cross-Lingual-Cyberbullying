@@ -38,7 +38,7 @@ If you use our work, please use the following citation:
 ```bibtex
 @inproceedings{SchlichtPaula:CLEF-2021,
 title = {Unified and Multilingual Author Profiling for Detecting Haters},
-author = {Ipek Baris Schlicht and Magnoss{\~a}o de Paula, Angel Felipe},
+author = {Ipek Baris Schlicht and Angel Felipe Magnoss{\~a}o de Paula},
 pages = {1837--1845},
 url = {http://ceur-ws.org/Vol-2936/#paper-157},
 crossref = {CLEF-2021},
